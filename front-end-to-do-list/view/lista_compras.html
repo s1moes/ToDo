@@ -1,0 +1,20 @@
+<div class="container-fluid">
+    <div class="row mb-4">
+        <div class="col">
+            <h1 class="h3 mb-0">Lista de Compras</h1>
+        </div>
+    </div>
+
+    <div class="shopping-list-container">        
+        <div class="new-item-form active" id="new-item-form">
+            <input type="text" class="item-input" onchange="addNewItem()" id="item-name" placeholder="Insira o produto">
+        </div>
+
+        <div id="items-container">
+            <div class="empty-state">
+                <i class="fas fa-shopping-basket" style="font-size: 32px; margin-bottom: 10px;"></i>
+                <p>A lista de compras está vazia</p>
+            </div>
+        </div>
+    </div>
+</div>

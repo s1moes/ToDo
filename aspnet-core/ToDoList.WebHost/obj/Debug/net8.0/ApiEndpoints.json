@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "ToDoList.WebHost.Controllers.CompraController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/compra",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "ToDoList.Application.Compras.Dto.CreateCompraDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ToDoList.WebHost.Controllers.CompraController",
+    "Method": "GetCompras",
+    "RelativePath": "api/compra",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ToDoList.WebHost.Controllers.TarefaController",
+    "Method": "CreateAsync",
+    "RelativePath": "api/tarefa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "ToDoList.Application.Tarefas.Dto.CreateTarefaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ToDoList.WebHost.Controllers.TarefaController",
+    "Method": "GetTarefas",
+    "RelativePath": "api/tarefa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ToDoList.WebHost.Controllers.TarefaController",
+    "Method": "GetTarefa",
+    "RelativePath": "api/tarefa/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

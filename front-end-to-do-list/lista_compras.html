@@ -1,0 +1,26 @@
+<div class="main-content">
+    <div class="container-fluid">
+        <div class="row mb-4">
+            <div class="col">
+                <h1 class="h3 mb-0">Lista de Compras</h1>
+            </div>
+        </div>
+
+        <div class="shopping-list-container">
+            <div class="new-item-button" onclick="showNewItemForm()">
+                <i class="fas fa-plus-circle"></i>
+                <span>Elemento novo</span>
+            </div>
+    
+            <div class="new-item-form" id="new-item-form">
+                <input type="text" class="item-input" id="item-name">
+                <div class="button-group">
+                    <button class="cancel-button" onclick="hideNewItemForm()">Cancelar</button>
+                    <button class="add-button" onclick="addNewItem()">Adicionar</button>
+                </div>
+            </div>
+    
+            <div id="items-container"></div>
+        </div>
+    </div>
+</div>

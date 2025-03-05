@@ -1,0 +1,895 @@
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\appsettings.json
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.exe
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.deps.json
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.runtimeconfig.json
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.pdb
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Abp.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Abp.AutoMapper.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Abp.EntityFramework.Common.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Abp.EntityFrameworkCore.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\AsyncKeyedLock.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\AutoMapper.Collection.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Castle.Core.AsyncInterceptor.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Castle.Facilities.Logging.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Castle.Windsor.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\JetBrains.Annotations.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Nito.AsyncEx.Context.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Nito.AsyncEx.Coordination.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Nito.AsyncEx.Tasks.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Nito.Collections.Deque.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Nito.Disposables.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\TimeZoneConverter.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Auditing.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Auditing.Contracts.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.BackgroundWorkers.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Caching.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Core.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Data.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Ddd.Domain.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Ddd.Domain.Shared.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.DistributedLocking.Abstractions.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.EntityFrameworkCore.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.EntityFrameworkCore.SqlServer.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.EventBus.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.EventBus.Abstractions.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.ExceptionHandling.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Guids.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Json.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Json.Abstractions.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Json.SystemTextJson.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Localization.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Localization.Abstractions.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.MultiTenancy.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.MultiTenancy.Abstractions.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.ObjectExtending.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.ObjectMapping.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Security.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Serialization.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Settings.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Specifications.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Threading.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Timing.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Uow.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.Validation.Abstractions.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\Volo.Abp.VirtualFileSystem.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Application.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Core.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Infrastructure.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Application.pdb
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Infrastructure.pdb
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Core.pdb
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.AssemblyInfo.cs
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.ToDoList.WebHost.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.build.ToDoList.WebHost.props
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ToDoList.WebHost.props
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ToDoList.WebHost.props
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\scopedcss\bundle\ToDoList.WebHost.styles.css
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.DA34BA6A.Up2Date
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\refint\ToDoList.WebHost.dll
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.pdb
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.genruntimeconfig.cache
+C:\Users\franc\Desktop\Projeto\ToDoListSolution\ToDoList.WebHost\obj\Debug\net8.0\ref\ToDoList.WebHost.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\appsettings.Development.json
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\appsettings.json
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.exe
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.deps.json
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.runtimeconfig.json
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.pdb
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Abp.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Abp.AutoMapper.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Abp.EntityFramework.Common.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Abp.EntityFrameworkCore.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\AutoMapper.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\AutoMapper.Collection.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Castle.Core.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Castle.Core.AsyncInterceptor.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Castle.Facilities.Logging.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Castle.Windsor.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Humanizer.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\JetBrains.Annotations.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.AsyncEx.Context.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.AsyncEx.Coordination.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.AsyncEx.Tasks.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.Collections.Deque.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.Disposables.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Common.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.CodeDom.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\TimeZoneConverter.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Application.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Core.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Infrastructure.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Application.pdb
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Infrastructure.pdb
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Core.pdb
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.csproj.AssemblyReference.cache
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.AssemblyInfoInputs.cache
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.AssemblyInfo.cs
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.csproj.CoreCompileInputs.cache
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.ToDoList.WebHost.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.build.ToDoList.WebHost.props
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ToDoList.WebHost.props
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ToDoList.WebHost.props
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\scopedcss\bundle\ToDoList.WebHost.styles.css
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.DA34BA6A.Up2Date
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\refint\ToDoList.WebHost.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.pdb
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.genruntimeconfig.cache
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ref\ToDoList.WebHost.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\appsettings.json
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.exe
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.deps.json
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.runtimeconfig.json
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.pdb
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Abp.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Abp.AutoMapper.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Abp.EntityFramework.Common.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Abp.EntityFrameworkCore.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\AutoMapper.Collection.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Castle.Core.AsyncInterceptor.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Castle.Facilities.Logging.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Castle.Windsor.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Humanizer.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\JetBrains.Annotations.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.AsyncEx.Context.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.AsyncEx.Coordination.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.AsyncEx.Tasks.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.Collections.Deque.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.Disposables.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\TimeZoneConverter.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Application.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Core.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Infrastructure.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Application.pdb
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Infrastructure.pdb
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Core.pdb
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.AssemblyInfoInputs.cache
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.AssemblyInfo.cs
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.ToDoList.WebHost.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.build.ToDoList.WebHost.props
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ToDoList.WebHost.props
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ToDoList.WebHost.props
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\scopedcss\bundle\ToDoList.WebHost.styles.css
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.DA34BA6A.Up2Date
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\refint\ToDoList.WebHost.dll
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.pdb
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.genruntimeconfig.cache
+C:\Users\franc\Desktop\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ref\ToDoList.WebHost.dll
+D:\Projetos\ToDoList\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.sourcelink.json
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.csproj.AssemblyReference.cache
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.GeneratedMSBuildEditorConfig.editorconfig
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.AssemblyInfoInputs.cache
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.AssemblyInfo.cs
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.csproj.CoreCompileInputs.cache
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.MvcApplicationPartsAssemblyInfo.cs
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.MvcApplicationPartsAssemblyInfo.cache
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\refint\ToDoList.WebHost.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.pdb
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\appsettings.Development.json
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\appsettings.json
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.staticwebassets.endpoints.json
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.exe
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.deps.json
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.runtimeconfig.json
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.WebHost.pdb
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Abp.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Abp.AutoMapper.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Abp.EntityFramework.Common.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Abp.EntityFrameworkCore.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\AutoMapper.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\AutoMapper.Collection.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Castle.Core.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Castle.Core.AsyncInterceptor.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Castle.Facilities.Logging.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Castle.Windsor.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Humanizer.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\JetBrains.Annotations.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Build.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.AsyncEx.Context.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.AsyncEx.Coordination.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.AsyncEx.Tasks.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.Collections.Deque.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Nito.Disposables.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Common.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.CodeDom.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\System.Xml.XPath.XmlDocument.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\TimeZoneConverter.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Application.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Core.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Infrastructure.dll
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Application.pdb
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Infrastructure.pdb
+D:\To Do\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ToDoList.Core.pdb
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\scopedcss\bundle\ToDoList.WebHost.styles.css
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets.build.json
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets.development.json
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.ToDoList.WebHost.Microsoft.AspNetCore.StaticWebAssets.props
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.ToDoList.WebHost.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.build.ToDoList.WebHost.props
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ToDoList.WebHost.props
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ToDoList.WebHost.props
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets.pack.json
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.DA34BA6A.Up2Date
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.genruntimeconfig.cache
+D:\To Do\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ref\ToDoList.WebHost.dll
