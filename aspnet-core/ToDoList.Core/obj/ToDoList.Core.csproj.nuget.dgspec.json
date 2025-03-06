@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\To Do\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj": {}
+    "D:\\ToDo\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj": {}
   },
   "projects": {
-    "D:\\To Do\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj": {
+    "D:\\ToDo\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\To Do\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj",
+        "projectUniqueName": "D:\\ToDo\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj",
         "projectName": "ToDoList.Core",
-        "projectPath": "D:\\To Do\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj",
+        "projectPath": "D:\\ToDo\\aspnet-core\\ToDoList.Core\\ToDoList.Core.csproj",
         "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-        "outputPath": "D:\\To Do\\aspnet-core\\ToDoList.Core\\obj\\",
+        "outputPath": "D:\\ToDo\\aspnet-core\\ToDoList.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

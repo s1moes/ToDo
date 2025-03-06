@@ -47,3 +47,16 @@ D:\To Do\aspnet-core\ToDoList.Core\obj\Debug\net8.0\ToDoList.Core.dll
 D:\To Do\aspnet-core\ToDoList.Core\obj\Debug\net8.0\refint\ToDoList.Core.dll
 D:\To Do\aspnet-core\ToDoList.Core\obj\Debug\net8.0\ToDoList.Core.pdb
 D:\To Do\aspnet-core\ToDoList.Core\obj\Debug\net8.0\ref\ToDoList.Core.dll
+D:\ToDo\aspnet-core\ToDoList.Core\bin\Debug\net8.0\ToDoList.Core.deps.json
+D:\ToDo\aspnet-core\ToDoList.Core\bin\Debug\net8.0\ToDoList.Core.dll
+D:\ToDo\aspnet-core\ToDoList.Core\bin\Debug\net8.0\ToDoList.Core.pdb
+D:\ToDo\aspnet-core\ToDoList.Core\obj\Debug\net8.0\ToDoList.Core.csproj.AssemblyReference.cache
+D:\ToDo\aspnet-core\ToDoList.Core\obj\Debug\net8.0\ToDoList.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToDo\aspnet-core\ToDoList.Core\obj\Debug\net8.0\ToDoList.Core.AssemblyInfoInputs.cache
+D:\ToDo\aspnet-core\ToDoList.Core\obj\Debug\net8.0\ToDoList.Core.AssemblyInfo.cs
+D:\ToDo\aspnet-core\ToDoList.Core\obj\Debug\net8.0\ToDoList.Core.csproj.CoreCompileInputs.cache
+D:\ToDo\aspnet-core\ToDoList.Core\obj\Debug\net8.0\ToDoList.Core.sourcelink.json
+D:\ToDo\aspnet-core\ToDoList.Core\obj\Debug\net8.0\ToDoList.Core.dll
+D:\ToDo\aspnet-core\ToDoList.Core\obj\Debug\net8.0\refint\ToDoList.Core.dll
+D:\ToDo\aspnet-core\ToDoList.Core\obj\Debug\net8.0\ToDoList.Core.pdb
+D:\ToDo\aspnet-core\ToDoList.Core\obj\Debug\net8.0\ref\ToDoList.Core.dll

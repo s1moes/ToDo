@@ -67,3 +67,21 @@ D:\To Do\aspnet-core\ToDoList.Application\bin\Debug\net8.0\ToDoList.Core.pdb
 D:\To Do\aspnet-core\ToDoList.Application\bin\Debug\net8.0\ToDoList.Infrastructure.pdb
 D:\To Do\aspnet-core\ToDoList.Application\obj\Debug\net8.0\ToDoList.ED2F2C6F.Up2Date
 D:\To Do\aspnet-core\ToDoList.Application\obj\Debug\net8.0\ref\ToDoList.Application.dll
+D:\ToDo\aspnet-core\ToDoList.Application\bin\Debug\net8.0\ToDoList.Application.deps.json
+D:\ToDo\aspnet-core\ToDoList.Application\bin\Debug\net8.0\ToDoList.Application.dll
+D:\ToDo\aspnet-core\ToDoList.Application\bin\Debug\net8.0\ToDoList.Application.pdb
+D:\ToDo\aspnet-core\ToDoList.Application\bin\Debug\net8.0\ToDoList.Core.dll
+D:\ToDo\aspnet-core\ToDoList.Application\bin\Debug\net8.0\ToDoList.Infrastructure.dll
+D:\ToDo\aspnet-core\ToDoList.Application\bin\Debug\net8.0\ToDoList.Core.pdb
+D:\ToDo\aspnet-core\ToDoList.Application\bin\Debug\net8.0\ToDoList.Infrastructure.pdb
+D:\ToDo\aspnet-core\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.csproj.AssemblyReference.cache
+D:\ToDo\aspnet-core\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToDo\aspnet-core\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.AssemblyInfoInputs.cache
+D:\ToDo\aspnet-core\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.AssemblyInfo.cs
+D:\ToDo\aspnet-core\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.csproj.CoreCompileInputs.cache
+D:\ToDo\aspnet-core\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.sourcelink.json
+D:\ToDo\aspnet-core\ToDoList.Application\obj\Debug\net8.0\ToDoList.ED2F2C6F.Up2Date
+D:\ToDo\aspnet-core\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.dll
+D:\ToDo\aspnet-core\ToDoList.Application\obj\Debug\net8.0\refint\ToDoList.Application.dll
+D:\ToDo\aspnet-core\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.pdb
+D:\ToDo\aspnet-core\ToDoList.Application\obj\Debug\net8.0\ref\ToDoList.Application.dll

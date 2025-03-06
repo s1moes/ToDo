@@ -7,5 +7,6 @@ namespace ToDoList.Core
     public class Compra : FullAuditedEntity<Guid>
     {
         public string Produto { get; set; }
+        public bool isChecked { get; set; }
     }
 }

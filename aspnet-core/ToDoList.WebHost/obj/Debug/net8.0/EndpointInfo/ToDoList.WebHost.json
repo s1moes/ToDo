@@ -119,6 +119,9 @@
           "produto": {
             "type": "string",
             "nullable": true
+          },
+          "isChecked": {
+            "type": "boolean"
           }
         },
         "additionalProperties": false

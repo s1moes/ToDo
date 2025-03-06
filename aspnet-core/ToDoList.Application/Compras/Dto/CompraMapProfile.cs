@@ -7,8 +7,9 @@ namespace ToDoList.Application.Compras.Dto
     {
         public CompraMapProfile() 
         {
-            CreateMap<CreateCompraDto, Compra>()
-                .ForMember(x => x.Produto, opt => opt.Ignore());
+            CreateMap<CreateCompraDto, Compra>();
+
+            CreateMap<Compra, CompraDto>();
         }
     }
 }

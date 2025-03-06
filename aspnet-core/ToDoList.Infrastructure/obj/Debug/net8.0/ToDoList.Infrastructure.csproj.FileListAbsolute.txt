@@ -59,3 +59,19 @@ D:\To Do\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastru
 D:\To Do\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\refint\ToDoList.Infrastructure.dll
 D:\To Do\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.pdb
 D:\To Do\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\ref\ToDoList.Infrastructure.dll
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\bin\Debug\net8.0\ToDoList.Infrastructure.deps.json
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\bin\Debug\net8.0\ToDoList.Infrastructure.dll
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\bin\Debug\net8.0\ToDoList.Infrastructure.pdb
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\bin\Debug\net8.0\ToDoList.Core.dll
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\bin\Debug\net8.0\ToDoList.Core.pdb
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.csproj.AssemblyReference.cache
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.AssemblyInfoInputs.cache
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.AssemblyInfo.cs
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.csproj.CoreCompileInputs.cache
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.sourcelink.json
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.6D526900.Up2Date
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.dll
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\refint\ToDoList.Infrastructure.dll
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\ToDoList.Infrastructure.pdb
+D:\ToDo\aspnet-core\ToDoList.Infrastructure\obj\Debug\net8.0\ref\ToDoList.Infrastructure.dll

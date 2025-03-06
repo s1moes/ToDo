@@ -1,4 +1,5 @@
 let taskList = [];
+let shoppingList = [];
 const done = true;
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -16,11 +17,18 @@ document.addEventListener("DOMContentLoaded", () => {
             const url = link.getAttribute('data-url');
 
             fetch(url)
-                .then(response => response.text())
-                .then(html => {
-                    mainContent.innerHTML = html;
-                })
-                .catch(error => console.error('Error loading content:', error));
+            .then(response => response.text())
+            .then(html => {
+                mainContent.innerHTML = html;
+            })
+            .then(() => {
+                if (url === 'view/lista_compras.html') {
+                    loadShoppingItems();
+                }
+            })
+            .catch(error => console.error('Error loading content:', error));
+
+            
         });
      });
 
@@ -68,9 +76,10 @@ document.addEventListener("DOMContentLoaded", () => {
         addTaskToUserInterface();
     }
 
-    getAllComprasFromBD();
-    
-    /* loadShoppingItems(); */
+    getAllComprasFromBD()
+    .then(data => {
+        shoppingList = data;
+    });
 });
 
 function toggleCheckbox(checkbox) {

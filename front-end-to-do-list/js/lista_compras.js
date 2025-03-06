@@ -2,46 +2,36 @@ function saveShoppingItems() {
     const itemsContainer = document.getElementById('items-container');
     const shoppingItems = itemsContainer.querySelectorAll('.shopping-item');
     
-    const savedItems = [];
-    
-    shoppingItems.forEach(item => {
-        const itemText = item.querySelector('.item-text').textContent;
-        const isChecked = item.querySelector('.checkbox').classList.contains('checked');
+    const itemText = shoppingItems[0].querySelector('.item-text').textContent;
+    const isChecked = shoppingItems[0].querySelector('.checkbox').classList.contains('checked');
         
-        savedItems.push({
-            text: itemText,
-            checked: isChecked
-        });
-    });
-    
-    localStorage.setItem('shoppingItems', JSON.stringify(savedItems));
+    postCompra(itemText, isChecked);
 }
 
-// Load shopping items from localStorage
+// Load shopping items from database
 function loadShoppingItems() {
-    const savedItems = localStorage.getItem('shoppingItems');
+    const savedItems = shoppingList;
     
     if (savedItems) {
-        const items = JSON.parse(savedItems);
         const itemsContainer = document.getElementById('items-container');
         
         // Clear empty state if it exists
         const emptyState = itemsContainer.querySelector('.empty-state');
-        if (emptyState && items.length > 0) {
+        if (emptyState && savedItems.length > 0) {
             emptyState.remove();
         }
         
         // Add each saved item to the DOM
-        items.forEach(item => {
+        savedItems.forEach(item => {
             const newItem = document.createElement('div');
             newItem.className = 'shopping-item';
             
-            const checkboxClass = item.checked ? 'checkbox checked' : 'checkbox';
-            const textStyle = item.checked ? 'text-decoration: line-through; color: #888;' : '';
+            const checkboxClass = item.isChecked ? 'checkbox checked' : 'checkbox';
+            const textStyle = item.isChecked ? 'text-decoration: line-through; color: #888;' : '';
             
             newItem.innerHTML = `
                 <div class="${checkboxClass}" onclick="toggleCheckbox(this)"></div>
-                <div class="item-text" style="${textStyle}">${item.text}</div>
+                <div class="item-text" style="${textStyle}">${item.produto}</div>
                 <div class="item-actions">
                     <i class="fas fa-trash delete-button" onclick="deleteItem(this)"></i>
                 </div>
@@ -79,7 +69,7 @@ function addNewItem() {
     
     document.getElementById('item-name').value = '';
     
-    // Save the updated list to localStorage
+    // Save the updated list to database
     saveShoppingItems();
 }
 
@@ -125,4 +115,33 @@ function getAllComprasFromBD() {
             console.error('Error fetching data:', error);
             return [];
         });
+}
+
+function postCompra(product, isChecked) {
+    const data = {
+        produto: product,
+        isChecked: isChecked
+    };
+
+    return fetch('https://localhost:44345/api/compra', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(data)
+    })
+    .then(response => {
+        if (!response.ok) {
+            throw new Error('Network response was not ok');
+        }
+        return response.json();
+    })
+    .then(data => {
+        console.log('Success:', data);
+        return data;
+    })
+    .catch(error => {
+        console.error('Error posting data:', error);
+        return null;
+    });
 }

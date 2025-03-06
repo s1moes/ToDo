@@ -12,7 +12,8 @@
         {
             return new Compra
             {
-                Produto = dto.Produto
+                Produto = dto.Produto,
+                isChecked = dto.isChecked
             };
         }
 
@@ -22,7 +23,8 @@
             return new CompraDto
             {
                 Id = entity.Id,
-                Produto = entity.Produto
+                Produto = entity.Produto,
+                isChecked = entity.isChecked
             };
         }
 

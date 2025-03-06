@@ -10360,11 +10360,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\To Do\\aspnet-core\\ToDoList.WebHost\\ToDoList.WebHost.csproj",
+      "projectUniqueName": "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\ToDoList.WebHost.csproj",
       "projectName": "ToDoList.WebHost",
-      "projectPath": "D:\\To Do\\aspnet-core\\ToDoList.WebHost\\ToDoList.WebHost.csproj",
+      "projectPath": "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\ToDoList.WebHost.csproj",
       "packagesPath": "C:\\Users\\franc\\.nuget\\packages\\",
-      "outputPath": "D:\\To Do\\aspnet-core\\ToDoList.WebHost\\obj\\",
+      "outputPath": "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10385,11 +10385,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\To Do\\aspnet-core\\ToDoList.Application\\ToDoList.Application.csproj": {
-              "projectPath": "D:\\To Do\\aspnet-core\\ToDoList.Application\\ToDoList.Application.csproj"
+            "D:\\ToDo\\aspnet-core\\ToDoList.Application\\ToDoList.Application.csproj": {
+              "projectPath": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\ToDoList.Application.csproj"
             },
-            "D:\\To Do\\aspnet-core\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj": {
-              "projectPath": "D:\\To Do\\aspnet-core\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj"
+            "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj": {
+              "projectPath": "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj"
             }
           }
         }
