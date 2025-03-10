@@ -14,24 +14,7 @@ const _layout = () => {
                 title: "Tarefas"
             }}
         />
-        <Tabs.Screen
-            name="explore"
-            options={{
-                title: "Compras"
-            }}
-        />
-        <Tabs.Screen
-            name="create"
-            options={{
-                title: "Create"
-            }}
-        />
-        <Tabs.Screen
-            name="profile"
-            options={{
-                title: "Profile"
-            }}
-        />
+        
     </Tabs>
   )
 }
