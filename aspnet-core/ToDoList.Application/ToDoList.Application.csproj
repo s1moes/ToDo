@@ -10,6 +10,7 @@
     <PackageReference Include="Abp" Version="9.4.2" />
     <PackageReference Include="Abp.AutoMapper" Version="9.4.2" />
     <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.3.0" />
+    <PackageReference Include="MongoDB.Driver" Version="3.2.1" />
   </ItemGroup>
 
   <ItemGroup>
