@@ -6,16 +6,16 @@ namespace ToDoList.Application.Compras
 {
     public class CompraAppService : ICompraAppService
     {
-        private readonly IRepository<Compra, Guid> _repository;
+        private readonly IMongoRepository<Compra, Guid> _mongoRepository;
         private readonly CompraMapper _compraMapper;
 
         public CompraAppService
         (
-            IRepository<Compra, Guid> repository,
+            IMongoRepository<Compra, Guid> mongoRepository,
             CompraMapper compraMapper
         )
         {
-            _repository = repository;
+            _mongoRepository = mongoRepository;
             _compraMapper = compraMapper;
         }
 
@@ -24,7 +24,7 @@ namespace ToDoList.Application.Compras
         {
             var compra = _compraMapper.MapToEntity(input);
 
-            await _repository.InsertAsync(compra);
+            await _mongoRepository.InsertAsync(compra);
 
             var compraDto = _compraMapper.MapToDto(compra);
 
@@ -33,7 +33,7 @@ namespace ToDoList.Application.Compras
 
         public async Task<List<CompraDto>> GetAllCompras()
         {
-            var compras = await _repository.GetAllAsync();
+            var compras = await _mongoRepository.GetAllAsync();
             var listCompras = _compraMapper.MapToDtoList(compras);
             return listCompras;
         }

@@ -1,12 +1,15 @@
 ﻿using Abp.Domain.Entities.Auditing;
-using System.ComponentModel.DataAnnotations.Schema;
+using MongoDB.Bson.Serialization.Attributes;
+using MongoDB.Bson;
 
 namespace ToDoList.Core
 {
-    [Table("Compra")]
     public class Compra : FullAuditedEntity<Guid>
     {
-        public string Produto { get; set; }
-        public bool isChecked { get; set; }
+        [BsonId]
+        [BsonRepresentation(BsonType.String)]
+        public Guid Id {  get; set; }
+        public required string Produto { get; set; }
+        public required bool isChecked { get; set; }
     }
 }

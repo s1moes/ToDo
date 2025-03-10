@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "EdNOuTXWBMm4c6aSGVLAdezEXqQa7r4/m0g8WXk4/R0=",
+  "Hash": "UPt+Bc9IuJsKy7gzxGMbeo0qR7Wb9TW7DWrPv/rttV4=",
   "Source": "ToDoList.WebHost",
   "BasePath": "_content/ToDoList.WebHost",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

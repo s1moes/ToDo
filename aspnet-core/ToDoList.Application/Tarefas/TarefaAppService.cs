@@ -14,16 +14,16 @@ namespace ToDoList.Application.Tarefas
 {
     public class TarefaAppService : ITarefaAppService
     {
-        private readonly IRepository<Tarefa, Guid> _repository;
+        private readonly IMongoRepository<Tarefa, Guid> _mongoRepository;
         private readonly TarefaMapper _tarefaMapper;
 
         public TarefaAppService
         (
-            IRepository<Tarefa, Guid> repository,
+            IMongoRepository<Tarefa, Guid> mongoRepository,
             TarefaMapper tarefaMapper
         )
         {
-            _repository = repository;
+            _mongoRepository = mongoRepository;
             _tarefaMapper = tarefaMapper;
         }
 
@@ -32,7 +32,7 @@ namespace ToDoList.Application.Tarefas
         {
             var tarefa = _tarefaMapper.MapToEntity(input);
 
-            await _repository.InsertAsync(tarefa);
+            await _mongoRepository.InsertAsync(tarefa);
 
             var tarefaDto = _tarefaMapper.MapToDto(tarefa);
 
@@ -41,14 +41,14 @@ namespace ToDoList.Application.Tarefas
 
         public async Task<List<TarefaDto>> GetAllTarefas()
         {
-            var tarefas = await _repository.GetAllAsync();
+            var tarefas = await _mongoRepository.GetAllAsync();
             var listTarefas = _tarefaMapper.MapToDtoList(tarefas);
             return listTarefas;
         }
 
         public async Task<TarefaDto> GetTarefa(Guid id)
         {
-            var tarefa = await _repository.GetByIdAsync(id);
+            var tarefa = await _mongoRepository.GetByIdAsync(id);
             var tarefaDto = _tarefaMapper.MapToDto(tarefa);
 
             return tarefaDto;

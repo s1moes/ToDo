@@ -4,18 +4,23 @@ using Microsoft.EntityFrameworkCore;
 using ToDoList.Infrastructure;
 using ToDoList.Core;
 using ToDoList.Application.Compras;
+using MongoDB.Driver;
+using Abp.Domain.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<ApplicationDataContext>(options =>
-    options.UseInMemoryDatabase("DatabaseTeste"));
+var connectionString = builder.Configuration.GetConnectionString("DbConnection");
+var mongoClient = new MongoClient(connectionString);
+var dataBaseName = "ToDo";
+var dataBase = mongoClient.GetDatabase(dataBaseName);
 
-builder.Services.AddScoped<ITarefaAppService, TarefaAppService>();
-builder.Services.AddScoped<IRepository<Tarefa, Guid>, Repository<Tarefa, Guid>>();
-builder.Services.AddScoped<TarefaMapper, TarefaMapper>();
+builder.Services.AddSingleton<IMongoClient>(mongoClient);
+builder.Services.AddSingleton<IMongoDatabase>(dataBase);
+
+builder.Services.AddScoped<IMongoRepository<Compra, Guid>>(provider =>
+    new MongoRepository<Compra, Guid>(dataBase, "Compras"));
 
 builder.Services.AddScoped<ICompraAppService, CompraAppService>();
-builder.Services.AddScoped<IRepository<Compra, Guid>, Repository<Compra, Guid>>();
 builder.Services.AddScoped<CompraMapper, CompraMapper>();
 
 builder.Services.AddCors(options =>
