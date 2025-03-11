@@ -20,6 +20,7 @@ builder.Services.AddSingleton<IMongoDatabase>(dataBase);
 builder.Services.AddScoped<IMongoRepository<Compra, Guid>>(provider =>
     new MongoRepository<Compra, Guid>(dataBase, "Compras"));
 
+
 builder.Services.AddScoped<ICompraAppService, CompraAppService>();
 builder.Services.AddScoped<CompraMapper, CompraMapper>();
 

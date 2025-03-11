@@ -9,10 +9,8 @@ namespace ToDoList.Infrastructure
     public interface IMongoRepository<T, TKey> where T : class
     {
         Task<TKey> InsertAsync(T entity);
-        Task UpdateAsync(T entity);
-        Task<T> GetByIdAsync(TKey id);
 
-        Task DeleteAsync(T entity);
+        Task<List<T>> GetAllAsync();
     }
 
 }

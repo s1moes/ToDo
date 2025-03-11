@@ -5,6 +5,7 @@ namespace ToDoList.Application.Compras
     public interface ICompraAppService
     {
         Task<CompraDto> CreateAsync(CreateCompraDto input);
-        Task<List<CompraDto>> GetAllCompras();
+
+        Task<List<CompraDto>> GetAllComprasAsync();
     }
 }

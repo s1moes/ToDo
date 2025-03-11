@@ -1,19 +1,16 @@
-﻿using Abp.Domain.Entities.Auditing;
+﻿using Abp.Domain.Entities;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
 namespace ToDoList.Core
 {
-    public class Compra : FullAuditedEntity<Guid>
+    public class Compra
     {
         [BsonId]
-        [BsonRepresentation(BsonType.ObjectId)]
-        public string MongoId { get; set; } = ObjectId.GenerateNewId().ToString(); // Identificador do MongoDB
+        [BsonRepresentation(BsonType.String)]
+        public Guid Id { get; set; }
 
-        public required string Produto { get; set; }
-        public required bool isChecked { get; set; }
-
-        [BsonIgnore] // Evita conflito com o MongoDB
-        public override Guid Id { get; set; } = Guid.NewGuid();
+        public string Produto { get; set; }
+        public bool isChecked { get; set; }
     }
 }

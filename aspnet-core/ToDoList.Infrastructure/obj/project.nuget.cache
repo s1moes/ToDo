@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tC7a7a2w2SQ=",
+  "dgSpecHash": "fw7wE8iS9A4=",
   "success": true,
-  "projectFilePath": "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\franc\\.nuget\\packages\\abp\\9.4.2\\abp.9.4.2.nupkg.sha512",
     "C:\\Users\\franc\\.nuget\\packages\\abp.automapper\\9.4.2\\abp.automapper.9.4.2.nupkg.sha512",

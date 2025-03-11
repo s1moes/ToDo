@@ -1,58 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ToDo\\aspnet-core\\",
+  "WorkspaceRootPath": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78CA7072-F7CA-4280-B90C-24706FFC3DA6}|ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj|d:\\todo\\aspnet-core\\todolist.infrastructure\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78CA7072-F7CA-4280-B90C-24706FFC3DA6}|ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|c:\\users\\franc\\desktop\\todo\\aspnet-core\\todolist.application\\compras\\dto\\compradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\compras\\dto\\compradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|d:\\todo\\aspnet-core\\todolist.application\\compras\\compraappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\compras\\compraappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1B940AF-C451-4BD9-BE14-6905A4F674C2}|ToDoList.Core\\ToDoList.Core.csproj|d:\\todo\\aspnet-core\\todolist.core\\compra\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1B940AF-C451-4BD9-BE14-6905A4F674C2}|ToDoList.Core\\ToDoList.Core.csproj|solutionrelative:todolist.core\\compra\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|d:\\todo\\aspnet-core\\todolist.application\\compras\\dto\\compramapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\compras\\dto\\compramapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11E21DD1-6E4F-4DE4-BB6B-5B323696DA10}|ToDoList.WebHost\\ToDoList.WebHost.csproj|d:\\todo\\aspnet-core\\todolist.webhost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{11E21DD1-6E4F-4DE4-BB6B-5B323696DA10}|ToDoList.WebHost\\ToDoList.WebHost.csproj|solutionrelative:todolist.webhost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11E21DD1-6E4F-4DE4-BB6B-5B323696DA10}|ToDoList.WebHost\\ToDoList.WebHost.csproj|d:\\todo\\aspnet-core\\todolist.webhost\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11E21DD1-6E4F-4DE4-BB6B-5B323696DA10}|ToDoList.WebHost\\ToDoList.WebHost.csproj|solutionrelative:todolist.webhost\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11E21DD1-6E4F-4DE4-BB6B-5B323696DA10}|ToDoList.WebHost\\ToDoList.WebHost.csproj|d:\\todo\\aspnet-core\\todolist.webhost\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{11E21DD1-6E4F-4DE4-BB6B-5B323696DA10}|ToDoList.WebHost\\ToDoList.WebHost.csproj|c:\\users\\franc\\desktop\\todo\\aspnet-core\\todolist.webhost\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11E21DD1-6E4F-4DE4-BB6B-5B323696DA10}|ToDoList.WebHost\\ToDoList.WebHost.csproj|solutionrelative:todolist.webhost\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11E21DD1-6E4F-4DE4-BB6B-5B323696DA10}|ToDoList.WebHost\\ToDoList.WebHost.csproj|d:\\todo\\aspnet-core\\todolist.webhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11E21DD1-6E4F-4DE4-BB6B-5B323696DA10}|ToDoList.WebHost\\ToDoList.WebHost.csproj|solutionrelative:todolist.webhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|c:\\users\\franc\\desktop\\todo\\aspnet-core\\todolist.application\\compras\\compraappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\compras\\compraappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78CA7072-F7CA-4280-B90C-24706FFC3DA6}|ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj|d:\\todo\\aspnet-core\\todolist.infrastructure\\objectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78CA7072-F7CA-4280-B90C-24706FFC3DA6}|ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\objectmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78CA7072-F7CA-4280-B90C-24706FFC3DA6}|ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj|c:\\users\\franc\\desktop\\todo\\aspnet-core\\todolist.infrastructure\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CA7072-F7CA-4280-B90C-24706FFC3DA6}|ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|d:\\todo\\aspnet-core\\todolist.application\\compras\\compramapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\compras\\compramapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|d:\\todo\\aspnet-core\\todolist.application\\compras\\icompraappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|c:\\users\\franc\\desktop\\todo\\aspnet-core\\todolist.application\\compras\\icompraappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\compras\\icompraappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|d:\\todo\\aspnet-core\\todolist.application\\compras\\dto\\createcompradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\compras\\dto\\createcompradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|c:\\users\\franc\\desktop\\todo\\aspnet-core\\todolist.application\\compras\\dto\\compramapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\compras\\dto\\compramapprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|d:\\todo\\aspnet-core\\todolist.application\\compras\\dto\\compradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\compras\\dto\\compradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78CA7072-F7CA-4280-B90C-24706FFC3DA6}|ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj|c:\\users\\franc\\desktop\\todo\\aspnet-core\\todolist.infrastructure\\imongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CA7072-F7CA-4280-B90C-24706FFC3DA6}|ToDoList.Infrastructure\\ToDoList.Infrastructure.csproj|solutionrelative:todolist.infrastructure\\imongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E21DD1-6E4F-4DE4-BB6B-5B323696DA10}|ToDoList.WebHost\\ToDoList.WebHost.csproj|c:\\users\\franc\\desktop\\todo\\aspnet-core\\todolist.webhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E21DD1-6E4F-4DE4-BB6B-5B323696DA10}|ToDoList.WebHost\\ToDoList.WebHost.csproj|solutionrelative:todolist.webhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E21DD1-6E4F-4DE4-BB6B-5B323696DA10}|ToDoList.WebHost\\ToDoList.WebHost.csproj|c:\\users\\franc\\desktop\\todo\\aspnet-core\\todolist.webhost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11E21DD1-6E4F-4DE4-BB6B-5B323696DA10}|ToDoList.WebHost\\ToDoList.WebHost.csproj|solutionrelative:todolist.webhost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|c:\\users\\franc\\desktop\\todo\\aspnet-core\\todolist.application\\compras\\dto\\createcompradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47584E1-23C0-4DE4-8E19-D9385BACDBD7}|ToDoList.Application\\ToDoList.Application.csproj|solutionrelative:todolist.application\\compras\\dto\\createcompradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,119 +50,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MongoRepository.cs",
-              "DocumentMoniker": "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\MongoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\MongoRepository.cs",
               "RelativeDocumentMoniker": "ToDoList.Infrastructure\\MongoRepository.cs",
-              "ToolTip": "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\MongoRepository.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\MongoRepository.cs",
               "RelativeToolTip": "ToDoList.Infrastructure\\MongoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T19:04:06.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\appsettings.json",
-              "RelativeDocumentMoniker": "ToDoList.WebHost\\appsettings.json",
-              "ToolTip": "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\appsettings.json",
-              "RelativeToolTip": "ToDoList.WebHost\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-11T18:59:34.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TarefaController.cs",
-              "DocumentMoniker": "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\Controllers\\TarefaController.cs",
-              "RelativeDocumentMoniker": "ToDoList.WebHost\\Controllers\\TarefaController.cs",
-              "ToolTip": "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\Controllers\\TarefaController.cs",
-              "RelativeToolTip": "ToDoList.WebHost\\Controllers\\TarefaController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T18:59:31.799Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "IMongoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\IMongoRepository.cs",
+              "RelativeDocumentMoniker": "ToDoList.Infrastructure\\IMongoRepository.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\IMongoRepository.cs",
+              "RelativeToolTip": "ToDoList.Infrastructure\\IMongoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T20:38:50.09Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CompraController.cs",
-              "DocumentMoniker": "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\Controllers\\CompraController.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.WebHost\\Controllers\\CompraController.cs",
               "RelativeDocumentMoniker": "ToDoList.WebHost\\Controllers\\CompraController.cs",
-              "ToolTip": "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\Controllers\\CompraController.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.WebHost\\Controllers\\CompraController.cs",
               "RelativeToolTip": "ToDoList.WebHost\\Controllers\\CompraController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T18:59:30.375Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ObjectMapper.cs",
-              "DocumentMoniker": "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\ObjectMapper.cs",
-              "RelativeDocumentMoniker": "ToDoList.Infrastructure\\ObjectMapper.cs",
-              "ToolTip": "D:\\ToDo\\aspnet-core\\ToDoList.Infrastructure\\ObjectMapper.cs",
-              "RelativeToolTip": "ToDoList.Infrastructure\\ObjectMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T18:59:24.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CompraMapper.cs",
-              "DocumentMoniker": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\CompraMapper.cs",
-              "RelativeDocumentMoniker": "ToDoList.Application\\Compras\\CompraMapper.cs",
-              "ToolTip": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\CompraMapper.cs",
-              "RelativeToolTip": "ToDoList.Application\\Compras\\CompraMapper.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T18:59:19.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "ICompraAppService.cs",
-              "DocumentMoniker": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\ICompraAppService.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\ICompraAppService.cs",
               "RelativeDocumentMoniker": "ToDoList.Application\\Compras\\ICompraAppService.cs",
-              "ToolTip": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\ICompraAppService.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\ICompraAppService.cs",
               "RelativeToolTip": "ToDoList.Application\\Compras\\ICompraAppService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T18:59:17.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CompraAppService.cs",
-              "DocumentMoniker": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\CompraAppService.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\CompraAppService.cs",
               "RelativeDocumentMoniker": "ToDoList.Application\\Compras\\CompraAppService.cs",
-              "ToolTip": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\CompraAppService.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\CompraAppService.cs",
               "RelativeToolTip": "ToDoList.Application\\Compras\\CompraAppService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T18:59:16.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "CompraMapProfile.cs",
-              "DocumentMoniker": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\Dto\\CompraMapProfile.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\Dto\\CompraMapProfile.cs",
               "RelativeDocumentMoniker": "ToDoList.Application\\Compras\\Dto\\CompraMapProfile.cs",
-              "ToolTip": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\Dto\\CompraMapProfile.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\Dto\\CompraMapProfile.cs",
               "RelativeToolTip": "ToDoList.Application\\Compras\\Dto\\CompraMapProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -183,54 +134,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Compra.cs",
-              "DocumentMoniker": "D:\\ToDo\\aspnet-core\\ToDoList.Core\\Compra\\Compra.cs",
-              "RelativeDocumentMoniker": "ToDoList.Core\\Compra\\Compra.cs",
-              "ToolTip": "D:\\ToDo\\aspnet-core\\ToDoList.Core\\Compra\\Compra.cs",
-              "RelativeToolTip": "ToDoList.Core\\Compra\\Compra.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.WebHost\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList.WebHost\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.WebHost\\Program.cs",
+              "RelativeToolTip": "ToDoList.WebHost\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T21:17:04.477Z",
+              "WhenOpened": "2025-03-11T18:56:12.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.WebHost\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoList.WebHost\\appsettings.json",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.WebHost\\appsettings.json",
+              "RelativeToolTip": "ToDoList.WebHost\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-11T18:59:34.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CreateCompraDto.cs",
-              "DocumentMoniker": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\Dto\\CreateCompraDto.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\Dto\\CreateCompraDto.cs",
               "RelativeDocumentMoniker": "ToDoList.Application\\Compras\\Dto\\CreateCompraDto.cs",
-              "ToolTip": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\Dto\\CreateCompraDto.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\Dto\\CreateCompraDto.cs",
               "RelativeToolTip": "ToDoList.Application\\Compras\\Dto\\CreateCompraDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T18:59:14.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T18:59:14.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 0,
               "Title": "CompraDto.cs",
-              "DocumentMoniker": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\Dto\\CompraDto.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\Dto\\CompraDto.cs",
               "RelativeDocumentMoniker": "ToDoList.Application\\Compras\\Dto\\CompraDto.cs",
-              "ToolTip": "D:\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\Dto\\CompraDto.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ToDo\\aspnet-core\\ToDoList.Application\\Compras\\Dto\\CompraDto.cs",
               "RelativeToolTip": "ToDoList.Application\\Compras\\Dto\\CompraDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T18:59:10.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\Program.cs",
-              "RelativeDocumentMoniker": "ToDoList.WebHost\\Program.cs",
-              "ToolTip": "D:\\ToDo\\aspnet-core\\ToDoList.WebHost\\Program.cs",
-              "RelativeToolTip": "ToDoList.WebHost\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAIwDIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T18:56:12.027Z",
               "EditorCaption": ""
             }
           ]

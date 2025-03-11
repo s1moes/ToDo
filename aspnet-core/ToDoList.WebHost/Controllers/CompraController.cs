@@ -15,19 +15,23 @@ namespace ToDoList.WebHost.Controllers
             _compraAppService = compraAppService;
         }
 
+        // POST: api/compra
         [HttpPost]
         public async Task<IActionResult> CreateAsync(CreateCompraDto input)
         {
             var compra = await _compraAppService.CreateAsync(input);
-            if (compra == null) return NotFound();
+            if (compra == null) return NotFound();  
 
-            return CreatedAtAction(nameof(GetCompras), new { id = compra.Id }, input);
+            return Ok(compra);
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetCompras()
+        public async Task<IActionResult> GetAllCompras()
         {
-            var compras = await _compraAppService.GetAllCompras();
+            var compras = await _compraAppService.GetAllComprasAsync();
+            
+            if (compras == null || compras.Count == 0) return NotFound();
+
             return Ok(compras);
         }
     }

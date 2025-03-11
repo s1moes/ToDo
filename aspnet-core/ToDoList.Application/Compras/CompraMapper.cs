@@ -18,15 +18,16 @@
         }
 
         // Implementação de mapeamento de Entidade Tarefa para DTO
-        public override CompraDto MapToDto(Compra entity)
+        public override CompraDto MapToDto(Compra compra)
         {
             return new CompraDto
             {
-                Id = entity.Id,
-                Produto = entity.Produto,
-                isChecked = entity.isChecked
+                Id = compra.Id,
+                Produto = compra.Produto,
+                isChecked = compra.isChecked
             };
         }
+
 
         public override List<CompraDto> MapToDtoList(List<Compra> compras)
         {

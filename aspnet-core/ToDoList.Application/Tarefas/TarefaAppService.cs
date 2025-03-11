@@ -39,20 +39,6 @@ namespace ToDoList.Application.Tarefas
             return tarefaDto;
         }
 
-        public async Task<List<TarefaDto>> GetAllTarefas()
-        {
-            var tarefas = await _mongoRepository.GetAllAsync();
-            var listTarefas = _tarefaMapper.MapToDtoList(tarefas);
-            return listTarefas;
-        }
-
-        public async Task<TarefaDto> GetTarefa(Guid id)
-        {
-            var tarefa = await _mongoRepository.GetByIdAsync(id);
-            var tarefaDto = _tarefaMapper.MapToDto(tarefa);
-
-            return tarefaDto;
-        }
     }
 
 }
