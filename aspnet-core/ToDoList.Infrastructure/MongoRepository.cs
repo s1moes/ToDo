@@ -16,33 +16,29 @@ namespace ToDoList.Infrastructure
         public async Task<TKey> InsertAsync(T entity)
         {
             await _collection.InsertOneAsync(entity);
-            return (TKey)entity.GetType().GetProperty("Id")?.GetValue(entity);
+            return (TKey)entity.GetType().GetProperty("MongoId")?.GetValue(entity);
+        }
+
+        public async Task<T> GetByIdAsync(TKey id)
+        {
+            var filter = Builders<T>.Filter.Eq("_id", id.ToString()); // Buscar pelo ObjectId
+            return await _collection.Find(filter).FirstOrDefaultAsync();
         }
 
         public async Task UpdateAsync(T entity)
         {
-            var id = entity.GetType().GetProperty("Id")?.GetValue(entity);
-            var filter = Builders<T>.Filter.Eq("id", id);
+            var id = entity.GetType().GetProperty("MongoId")?.GetValue(entity);
+            var filter = Builders<T>.Filter.Eq("_id", id);
             await _collection.ReplaceOneAsync(filter, entity);
         }
 
         public async Task DeleteAsync(T entity)
         {
-            var id = entity.GetType().GetProperty("Id")?.GetValue(entity);
-            var filter = Builders<T>.Filter?.Eq("Id", id);
+            var id = entity.GetType().GetProperty("MongoId")?.GetValue(entity);
+            var filter = Builders<T>.Filter.Eq("_id", id);
             await _collection.DeleteOneAsync(filter);
         }
 
-        public async Task<T> GetByIdAsync(TKey id)
-        {
-            var filter = Builders<T>.Filter.Eq("Id", id);
-            return await _collection.Find(filter).FirstOrDefaultAsync();
-        }
-
-        public async Task<List<T>> GetAllAsync()
-        {
-            return await _collection.Find(Builders<T>.Filter.Empty).ToListAsync();
-        }
     }
 
 }

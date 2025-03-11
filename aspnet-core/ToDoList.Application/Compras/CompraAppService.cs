@@ -1,42 +1,45 @@
-﻿using ToDoList.Application.Compras.Dto;
+﻿using Abp.Application.Services;
+using ToDoList.Application.Compras.Dto;
 using ToDoList.Core;
 using ToDoList.Infrastructure;
 
 namespace ToDoList.Application.Compras
 {
-    public class CompraAppService : ICompraAppService
+    public class CompraAppService : ApplicationService, ICompraAppService
     {
-        private readonly IMongoRepository<Compra, Guid> _mongoRepository;
+        private readonly IMongoRepository<Compra, string> _compraRepository;
         private readonly CompraMapper _compraMapper;
 
-        public CompraAppService
-        (
-            IMongoRepository<Compra, Guid> mongoRepository,
-            CompraMapper compraMapper
-        )
+        public CompraAppService(IMongoRepository<Compra, string> compraRepository, CompraMapper compraMapper)
         {
-            _mongoRepository = mongoRepository;
+            _compraRepository = compraRepository;
             _compraMapper = compraMapper;
         }
 
-
         public async Task<CompraDto> CreateAsync(CreateCompraDto input)
         {
-            var compra = _compraMapper.MapToEntity(input);
+            var compra = new Compra
+            {
+                Produto = input.Produto,
+                isChecked = input.isChecked
+            };
 
-            await _mongoRepository.InsertAsync(compra);
+            await _compraRepository.InsertAsync(compra);
+            return _compraMapper.MapToDto(compra);
+        }
 
-            var compraDto = _compraMapper.MapToDto(compra);
-
-            return compraDto;
+        public async Task<CompraDto> GetByIdAsync(Guid id)
+        {
+            var compra = await _compraRepository.GetByIdAsync(id.ToString());
+            return _compraMapper.MapToDto(compra);
         }
 
         public async Task<List<CompraDto>> GetAllCompras()
         {
-            var compras = await _mongoRepository.GetAllAsync();
-            var listCompras = _compraMapper.MapToDtoList(compras);
-            return listCompras;
+            var compras = await _compraRepository.GetAllAsync();
+            return _compraMapper.MapToDtoList(compras);
         }
     }
+
 
 }

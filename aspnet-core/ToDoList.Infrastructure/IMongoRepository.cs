@@ -10,9 +10,9 @@ namespace ToDoList.Infrastructure
     {
         Task<TKey> InsertAsync(T entity);
         Task UpdateAsync(T entity);
-        Task DeleteAsync(T entity);
         Task<T> GetByIdAsync(TKey id);
-        Task<List<T>> GetAllAsync();
+
+        Task DeleteAsync(T entity);
     }
 
 }

@@ -1411,3 +1411,9 @@ C:\Users\franc\Desktop\ToDo\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\scoped
 C:\Users\franc\Desktop\ToDo\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.DA34BA6A.Up2Date
 C:\Users\franc\Desktop\ToDo\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ToDoList.WebHost.genruntimeconfig.cache
 C:\Users\franc\Desktop\ToDo\aspnet-core\ToDoList.WebHost\obj\Debug\net8.0\ref\ToDoList.WebHost.dll
+D:\ToDo\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\DnsClient.dll
+D:\ToDo\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\ToDo\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\ToDo\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\SharpCompress.dll
+D:\ToDo\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\Snappier.dll
+D:\ToDo\aspnet-core\ToDoList.WebHost\bin\Debug\net8.0\ZstdSharp.dll
