@@ -10,7 +10,8 @@ const _layout = () => {
         <Tabs.Screen
             name="index"
             options={{
-                title: "Tarefas"
+                title: "Tarefas",
+                headerShown: false
             }}
         />
         
